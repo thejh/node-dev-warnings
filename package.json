@@ -1,7 +1,7 @@
 { "name" : "dev-warnings"
 , "description" : "Additional warnings for standard functions"
 , "keywords" : [ "warn", "warning", "debug", "dev" ]
-, "version" : "1.0.0"
+, "version" : "1.0.1"
 , "author" : "Jann Horn <jannhorn@googlemail.com>"
 , "repository" :
   { "type" : "git"
