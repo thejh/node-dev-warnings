@@ -1,0 +1,21 @@
+{ "name" : "dev-warnings"
+, "description" : "Additional warnings for standard functions"
+, "keywords" : [ "warn", "warning", "debug", "dev" ]
+, "version" : "1.0.0"
+, "author" : "Jann Horn <jannhorn@googlemail.com>"
+, "repository" :
+  { "type" : "git"
+  , "url" : "git://github.com/thejh/node-dev-warnings.git"
+  }
+, "bugs" :
+  { "web" : "http://github.com/thejh/node-dev-warnings/issues"
+  }
+, "directories" : { "lib" : "./lib"
+                  }
+, "main" : "./lib/index.js"
+, "licenses" :
+  [ { "type" : "MIT"
+    , "url" : "http://github.com/thejh/node-dev-warnings/raw/master/LICENSE"
+    }
+  ]
+}
