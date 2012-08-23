@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/thejh/node-dev-warnings.png)](http://travis-ci.org/thejh/node-dev-warnings)
 Debug messages for various functions.
 
 Installation
